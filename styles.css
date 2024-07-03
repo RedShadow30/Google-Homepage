@@ -1,0 +1,50 @@
+/*Adds space ONCE before main*/
+.main {
+  margin-top: 200px;
+}
+  
+.logo-img {
+  display: block;
+  width: 300px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.search-input {
+  display: block;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 24px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+}
+
+.btn {
+  /*Space between around button*/
+  margin-left: 4px;
+  margin-right: 4px;
+  margin-top: 30px;
+
+  /*Space inside button*/
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  
+  font-size: small;
+  border: none;
+  border-radius: 3px; /*Edge Smoothness*/
+  background-color: #dfe1e5;
+}
+
+/*Use of Flexbox to keep both buttons inline*/
+.btn-wrapper {
+  display: flex;
+  justify-content: center;
+}
