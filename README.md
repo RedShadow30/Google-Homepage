@@ -21,6 +21,11 @@ This is a beginner project for me to understand the basic components of building
 6. Install the "Live Server" extension on VS Code
 7. On the bottom right side of your VS Code screen, click on the "Go Live" option. (next to "Markdown" and Bell icon)
 8. The static web page should now appear through a web browser!
+
+#### My Google.com Homepage Clone
+![image](https://github.com/RedShadow30/Google-Homepage/assets/148815559/2143ec11-d180-411c-8a70-a6a865a9d9e5)
+
+
 <br>
 If you would like to learn more about localhost, here are some websites: 
 <ul>
